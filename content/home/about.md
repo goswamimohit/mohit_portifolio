@@ -9,5 +9,6 @@ author: admin
 design:
   background:
     color: "#934a4a"
-    image: mohit-w.jpg
+    image: pexels-fwstudio-131634.jpg
+    image_darken: 0.9
 ---
