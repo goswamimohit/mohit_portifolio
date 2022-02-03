@@ -1,7 +1,7 @@
 ---
 title: Mohit Goswami
 role: Data Scientist
-avatar_filename: mohit-w.jpg
+avatar_filename: w_mohit.jpg
 bio: My research interests include Machine learning, data analyst, research and
   medicine etc..
 interests:
