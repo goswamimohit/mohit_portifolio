@@ -1,79 +1,47 @@
 ---
-title: "An example conference paper"
+abstract: >-
+  Three-dimensional (3D) cell culture system is a better model to mimic the in
+  vivo environment as compared to the traditional two-dimensional (2D) cell
+  culture due to their cell-cell interaction, cell–extracellular matrix (ECM)
+  interaction and their spatial organization of cells and receptors in spheroid
+  as compared to 2D culture. In the
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+  present study, we compared the efficacy of our synthetic molecules based upon pyrazoloquinazoline  
+   harmacophore, in 2D as well as 3D cell culture model. There was an enormous difference in activity of M-3 compound in 3D culture as compared to 2D cell culture.
+  The method thus offers the scope and opportunity for the testing of drugs before entering in a preclinical trial. This may increase the chances of drug failure at advanced  level and significantly may contribute in the drug discovery.
 slides: example
+url_pdf: ""
+publication_types:
+  - "7"
+authors:
+  - Mohit
+author_notes:
+  - Equal contribution
+  - Equal contribution
+publication: ""
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: “Establishment and Validation of 3D cell culture model system using
+  synthetic compound"
+doi: ""
+featured: true
+tags: []
+projects:
+  - example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: true
+  filename: new-bitmap-image.bmp
+date: 2017-07-26T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
