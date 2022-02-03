@@ -6,8 +6,10 @@ abstract: >-
   interaction and their spatial organization of cells and receptors in spheroid
   as compared to 2D culture. In the
 
-  present study, we compared the efficacy of our synthetic molecules based upon pyrazoloquinazoline  
-   harmacophore, in 2D as well as 3D cell culture model. There was an enormous difference in activity of M-3 compound in 3D culture as compared to 2D cell culture.
+  present study, we compared the efficacy of our synthetic molecules based upon pyrazoloquinazoline pharmacophore, in 2D as well as 3D cell culture model. 
+
+  There was an enormous difference in activity of M-3 compound in 3D culture as compared to 2D cell culture.
+
   The method thus offers the scope and opportunity for the testing of drugs before entering in a preclinical trial. This may increase the chances of drug failure at advanced  level and significantly may contribute in the drug discovery.
 slides: example
 url_pdf: ""
