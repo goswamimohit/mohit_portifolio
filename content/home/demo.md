@@ -6,7 +6,7 @@ widget: blank
 widget_id: a
 headless: true
 weight: 15
-title: Academic Template
+title: " Mohit Goswami"
 subtitle: ""
 active: false
 design:
