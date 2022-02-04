@@ -9,7 +9,7 @@ author: admin
 design:
   background:
     color: "#934a4a"
-    image: pexels-fwstudio-131634.jpg
-    image_darken: 0.9
+    image: verton_dashboard_background.jpg
+    image_darken: 0.4
   columns: "2"
 ---
