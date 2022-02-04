@@ -43,6 +43,5 @@ email: mohit165@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am aspiring data scientist which like to explore thing and finding patterns. I had done masters in  molecular medicine. By nature enthusiastic biologist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
