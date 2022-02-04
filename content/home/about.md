@@ -11,5 +11,5 @@ design:
     color: "#934a4a"
     image: pexels-fwstudio-131634.jpg
     image_darken: 0.9
-  columns: "1"
+  columns: "2"
 ---
